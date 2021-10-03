@@ -1,0 +1,14 @@
+{
+  "name": "mongodbproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^4.1.2"
+  }
+}
